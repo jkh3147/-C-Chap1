@@ -17,3 +17,13 @@ int BoxVolume(int length, int width, int height)
 {
 	return length * width*height;
 }
+
+int BoxVolume(int length) {
+	return length * 1*1;
+}
+int BoxVolume(int length, int width) {
+	return length * width * 1;
+}
+int BoxVolume(int length, int width, int height) {
+	return length* width* height;
+}

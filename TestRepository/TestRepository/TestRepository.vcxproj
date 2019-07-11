@@ -158,7 +158,14 @@
     <ClCompile Include="Q 01-2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Q 01-3.cpp" />
+    <ClCompile Include="Q 01-3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Q 01-4 FuncJustifycpp.cpp" />
+    <ClCompile Include="Q 01-4 maincpp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FuncDeclaration.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

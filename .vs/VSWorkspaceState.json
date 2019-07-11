@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TestRepository",
+    "\\TestRepository\\TestRepository",
+    "\\TestRepository\\TestRepository\\Debug"
   ],
-  "SelectedNode": "\\New File",
+  "SelectedNode": "\\TestRepository\\TestRepository.sln",
   "PreviewInSolutionExplorer": false
 }

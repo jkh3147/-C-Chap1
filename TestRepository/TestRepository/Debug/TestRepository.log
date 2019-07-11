@@ -1,2 +1,15 @@
-﻿  Q 01-2.cpp
-  TestRepository.vcxproj -> C:\Users\jkh31\Source\Repos\-C-Chap1\TestRepository\Debug\TestRepository.exe
+﻿  Q 01-4 FuncJustifycpp.cpp
+c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\q 01-4 funcjustifycpp.cpp(5): error C2039: 'cout': 'std'의 멤버가 아닙니다.
+  c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\predefined c++ types (compiler internal)(256): note: 'std' 선언을 참조하십시오.
+c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\q 01-4 funcjustifycpp.cpp(5): error C2065: 'cout': 선언되지 않은 식별자입니다.
+c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\q 01-4 funcjustifycpp.cpp(5): error C2039: 'endl': 'std'의 멤버가 아닙니다.
+  c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\predefined c++ types (compiler internal)(256): note: 'std' 선언을 참조하십시오.
+c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\q 01-4 funcjustifycpp.cpp(5): error C2065: 'endl': 선언되지 않은 식별자입니다.
+c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\q 01-4 funcjustifycpp.cpp(10): error C2039: 'cout': 'std'의 멤버가 아닙니다.
+  c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\predefined c++ types (compiler internal)(256): note: 'std' 선언을 참조하십시오.
+c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\q 01-4 funcjustifycpp.cpp(10): error C2065: 'cout': 선언되지 않은 식별자입니다.
+c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\q 01-4 funcjustifycpp.cpp(10): error C2039: 'endl': 'std'의 멤버가 아닙니다.
+  c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\predefined c++ types (compiler internal)(256): note: 'std' 선언을 참조하십시오.
+c:\users\jkh31\source\repos\-c-chap1\testrepository\testrepository\q 01-4 funcjustifycpp.cpp(10): error C2065: 'endl': 선언되지 않은 식별자입니다.
+  Q 01-4 maincpp.cpp
+  코드를 생성하고 있습니다...
